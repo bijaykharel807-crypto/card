@@ -7,7 +7,12 @@ import Footer from './comp/Footer'
 import ProductCard from './comp/ProductCard'
 import TrendingSection from './comp/TradingSection'
 import Item from './comp/Item'
-import Animation from './comp/Animation.Jsx'
+
+import Animationdata from './comp/Animationdata'
+
+
+
+
 
 
 const App = () => {
@@ -17,7 +22,7 @@ const App = () => {
         <Hero/>
         <Item/>
         <ProductCard/>
-        <Animation/>
+        <Animationdata/>
         <TrendingSection/>
         
         <Footer/>

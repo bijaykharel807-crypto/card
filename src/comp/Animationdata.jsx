@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Animation = () => {
+const Animationdata = () => {
   return (
     <div className="flex justify-center items-center p-10">
       
@@ -41,4 +41,4 @@ const Animation = () => {
   );
 };
 
-export default Animation;
+export default Animationdata;
